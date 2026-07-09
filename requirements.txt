@@ -1,6 +1,2 @@
 streamlit
 pandas
-openpyxl
-python-docx
-python-pptx
-pypdf
