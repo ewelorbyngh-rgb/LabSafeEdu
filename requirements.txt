@@ -1,10 +1,2 @@
 streamlit
 pandas
-matplotlib
-
-python-docx
-python-pptx
-openpyxl
-pypdf
-pillow
-pytesseract
