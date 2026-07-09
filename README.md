@@ -1,9 +1,12 @@
-# LabSafeEdu Competition Focused V1
+# LabSafeEdu Competition Focused V2 ReportAligned
 
-高校实验室安全准入与风险闭环教育智能体。
+本版本根据最新参赛报告进行系统对齐，突出三条核心主线：
+1. 场景化准入学习
+2. 实验前风险研判
+3. 隐患整改闭环
 
-Run: `python -m streamlit run app.py`
+系统同时保留案例微课堂、准入测评与错题反馈、管理数据看板和知识库维护功能，形成“学前准入—实验前研判—隐患整改—案例育人—测评反馈—管理优化—知识库更新”的教育闭环。
 
-
-## V1.1 ChartFix
-- 管理数据看板改用 Streamlit 原生图表渲染，解决云端 matplotlib 缺少中文字体时图表文字显示为方框的问题。
+运行：
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
